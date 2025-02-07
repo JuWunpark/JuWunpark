@@ -1,3 +1,3 @@
 print("test2")
 
-print("test70")
+print("test40")
